@@ -1,0 +1,8 @@
+cat  con meo
+dog  con cho
+tree  cay
+bird  con chim
+fish  con ca
+mouse  con chuot
+tiger  con ho
+lion  con su tu
